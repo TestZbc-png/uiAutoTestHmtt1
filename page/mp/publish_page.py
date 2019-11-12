@@ -4,7 +4,7 @@ from selenium.webdriver.common.by import By
 
 import utils
 from base.mp.base_page import BasePage, BaseHandle
-
+print(333)
 
 class PublishPage(BasePage):
     def __init__(self):
