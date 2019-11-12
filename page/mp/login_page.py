@@ -4,6 +4,7 @@ from base.mp.base_page import BasePage, BaseHandle
 
 print()
 print()
+print()
 class LoginPage(BasePage):
 
     def __init__(self):
