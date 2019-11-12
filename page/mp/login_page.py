@@ -2,7 +2,8 @@ from selenium.webdriver.common.by import By
 
 from base.mp.base_page import BasePage, BaseHandle
 
-
+print()
+print()
 class LoginPage(BasePage):
 
     def __init__(self):
