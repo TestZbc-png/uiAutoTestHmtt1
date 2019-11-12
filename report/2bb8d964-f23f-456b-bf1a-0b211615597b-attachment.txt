@@ -1,0 +1,9 @@
+[32mINFO    [0m root:base_page.py:10 location('xpath', "//ul[@role='menubar']//*[text()='内容管理']")
+[32mINFO    [0m root:base_page.py:10 location('xpath', "//ul[@role='menubar']//*[contains(text(), '发布文章')]")
+[32mINFO    [0m root:base_page.py:10 location('css selector', "[placeholder='文章名称']")
+[32mINFO    [0m root:base_page.py:10 location('id', 'publishTinymce_ifr')
+[32mINFO    [0m root:base_page.py:10 location('tag name', 'body')
+[32mINFO    [0m root:base_page.py:10 location('xpath', "//input[@value='auto']/..")
+[32mINFO    [0m root:base_page.py:10 location('css selector', "[placeholder='请选择']")
+[32mINFO    [0m root:base_page.py:10 location('class name', 'el-button--primary')
+[32mINFO    [0m root:test_publish.py:37 title=zbcceshi001, content=吴迪阿三接电话, channel=数据库

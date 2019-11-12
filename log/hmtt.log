@@ -1,0 +1,75 @@
+2019-11-12 16:03:12,773 INFO [test_login.py(build_data:22)] - test_data
+2019-11-12 16:03:47,922 INFO [test_login.py(test_login:47)] - mobile, code, username13012345678246810test123
+2019-11-12 16:03:47,923 INFO [base_page.py(find_element:10)] - location('css selector', "input[placeholder='请输入手机号']")
+2019-11-12 16:04:01,206 INFO [base_page.py(find_element:10)] - location('xpath', "//ul[@role='menubar']//*[text()='内容管理']")
+2019-11-12 16:04:13,587 INFO [test_login.py(build_data:22)] - test_data
+2019-11-12 16:05:10,269 INFO [test_login.py(build_data:22)] - test_data
+2019-11-12 16:06:02,898 INFO [test_login.py(build_data:22)] - test_data
+2019-11-12 16:06:11,926 INFO [test_login.py(test_login:47)] - mobile, code, username13012345678246810test123
+2019-11-12 16:06:11,927 INFO [base_page.py(find_element:10)] - location('css selector', "input[placeholder='请输入手机号']")
+2019-11-12 16:06:12,099 INFO [base_page.py(find_element:10)] - location('css selector', "input[placeholder='验证码']")
+2019-11-12 16:06:12,203 INFO [base_page.py(find_element:10)] - location('class name', 'el-button--primary')
+2019-11-12 16:06:16,029 INFO [base_page.py(find_element:10)] - location('xpath', "//ul[@role='menubar']//*[text()='内容管理']")
+2019-11-12 16:06:16,117 INFO [base_page.py(find_element:10)] - location('xpath', "//ul[@role='menubar']//*[contains(text(), '发布文章')]")
+2019-11-12 16:06:22,239 INFO [base_page.py(find_element:10)] - location('css selector', "[placeholder='文章名称']")
+2019-11-12 16:06:25,552 INFO [base_page.py(find_element:10)] - location('id', 'publishTinymce_ifr')
+2019-11-12 16:06:25,624 INFO [base_page.py(find_element:10)] - location('tag name', 'body')
+2019-11-12 16:06:25,817 INFO [base_page.py(find_element:10)] - location('xpath', "//input[@value='auto']/..")
+2019-11-12 16:06:25,893 INFO [base_page.py(find_element:10)] - location('css selector', "[placeholder='请选择']")
+2019-11-12 16:06:37,099 INFO [base_page.py(find_element:10)] - location('class name', 'el-button--primary')
+2019-11-12 16:06:42,246 INFO [test_publish.py(test_click_to_home_list:37)] - title=test1000zbc123, content=内容。。。, channel=数据库
+2019-11-12 16:10:42,808 INFO [test_login.py(build_data:22)] - test_data
+2019-11-12 16:10:51,648 INFO [test_login.py(test_login:47)] - mobile, code, username13012345678246810test123
+2019-11-12 16:10:51,652 INFO [base_page.py(find_element:10)] - location('css selector', "input[placeholder='请输入手机号']")
+2019-11-12 16:10:51,908 INFO [base_page.py(find_element:10)] - location('css selector', "input[placeholder='验证码']")
+2019-11-12 16:10:52,012 INFO [base_page.py(find_element:10)] - location('class name', 'el-button--primary')
+2019-11-12 16:10:55,853 INFO [base_page.py(find_element:10)] - location('xpath', "//ul[@role='menubar']//*[text()='内容管理']")
+2019-11-12 16:10:55,931 INFO [base_page.py(find_element:10)] - location('xpath', "//ul[@role='menubar']//*[contains(text(), '发布文章')]")
+2019-11-12 16:11:02,055 INFO [base_page.py(find_element:10)] - location('css selector', "[placeholder='文章名称']")
+2019-11-12 16:11:05,414 INFO [base_page.py(find_element:10)] - location('id', 'publishTinymce_ifr')
+2019-11-12 16:11:05,486 INFO [base_page.py(find_element:10)] - location('tag name', 'body')
+2019-11-12 16:11:05,639 INFO [base_page.py(find_element:10)] - location('xpath', "//input[@value='auto']/..")
+2019-11-12 16:11:05,728 INFO [base_page.py(find_element:10)] - location('css selector', "[placeholder='请选择']")
+2019-11-12 16:11:11,977 INFO [base_page.py(find_element:10)] - location('class name', 'el-button--primary')
+2019-11-12 16:11:12,101 INFO [test_publish.py(test_click_to_home_list:37)] - title=test1000zbc123, content=内容。。。, channel=数据库
+2019-11-12 16:14:16,083 INFO [test_login.py(build_data:22)] - test_data
+2019-11-12 16:14:36,959 INFO [test_login.py(test_login:47)] - mobile, code, username13012345678246810test123
+2019-11-12 16:14:36,960 INFO [base_page.py(find_element:10)] - location('css selector', "input[placeholder='请输入手机号']")
+2019-11-12 16:14:40,182 INFO [base_page.py(find_element:10)] - location('xpath', "//ul[@role='menubar']//*[text()='内容管理']")
+2019-11-12 16:14:44,262 INFO [test_login.py(build_data:22)] - test_data
+2019-11-12 16:14:59,999 INFO [test_login.py(build_data:22)] - test_data
+2019-11-12 16:15:08,374 INFO [test_login.py(test_login:47)] - mobile, code, username13012345678246810test123
+2019-11-12 16:15:08,375 INFO [base_page.py(find_element:10)] - location('css selector', "input[placeholder='请输入手机号']")
+2019-11-12 16:15:08,521 INFO [base_page.py(find_element:10)] - location('css selector', "input[placeholder='验证码']")
+2019-11-12 16:15:08,628 INFO [base_page.py(find_element:10)] - location('class name', 'el-button--primary')
+2019-11-12 16:15:12,436 INFO [base_page.py(find_element:10)] - location('xpath', "//ul[@role='menubar']//*[text()='内容管理']")
+2019-11-12 16:15:12,514 INFO [base_page.py(find_element:10)] - location('xpath', "//ul[@role='menubar']//*[contains(text(), '发布文章')]")
+2019-11-12 16:15:18,619 INFO [base_page.py(find_element:10)] - location('css selector', "[placeholder='文章名称']")
+2019-11-12 16:15:21,879 INFO [base_page.py(find_element:10)] - location('id', 'publishTinymce_ifr')
+2019-11-12 16:15:21,954 INFO [base_page.py(find_element:10)] - location('tag name', 'body')
+2019-11-12 16:15:22,154 INFO [base_page.py(find_element:10)] - location('xpath', "//input[@value='auto']/..")
+2019-11-12 16:15:22,222 INFO [base_page.py(find_element:10)] - location('css selector', "[placeholder='请选择']")
+2019-11-12 16:15:28,481 INFO [base_page.py(find_element:10)] - location('class name', 'el-button--primary')
+2019-11-12 16:15:28,594 INFO [test_publish.py(test_click_to_home_list:37)] - title=zbcceshi001, content=吴迪阿三接电话, channel=数据库
+2019-11-12 16:29:17,530 INFO [test_login.py(build_data:22)] - test_data
+2019-11-12 16:29:40,810 INFO [test_login.py(build_data:22)] - test_data
+2019-11-12 16:29:58,692 INFO [test_login.py(test_login:47)] - mobile, code, username13012345678246810test123
+2019-11-12 16:29:58,692 INFO [base_page.py(find_element:10)] - location('css selector', "input[placeholder='请输入手机号']")
+2019-11-12 16:29:58,992 INFO [base_page.py(find_element:10)] - location('css selector', "input[placeholder='验证码']")
+2019-11-12 16:29:59,145 INFO [base_page.py(find_element:10)] - location('class name', 'el-button--primary')
+2019-11-12 16:30:16,665 INFO [base_page.py(find_element:10)] - location('xpath', "//ul[@role='menubar']//*[text()='内容管理']")
+2019-11-12 16:30:16,855 INFO [base_page.py(find_element:10)] - location('xpath', "//ul[@role='menubar']//*[contains(text(), '发布文章')]")
+2019-11-12 16:30:49,540 INFO [test_login.py(build_data:22)] - test_data
+2019-11-12 16:30:57,632 INFO [test_login.py(test_login:47)] - mobile, code, username13012345678246810test123
+2019-11-12 16:30:57,632 INFO [base_page.py(find_element:10)] - location('css selector', "input[placeholder='请输入手机号']")
+2019-11-12 16:30:57,915 INFO [base_page.py(find_element:10)] - location('css selector', "input[placeholder='验证码']")
+2019-11-12 16:30:58,040 INFO [base_page.py(find_element:10)] - location('class name', 'el-button--primary')
+2019-11-12 16:31:02,123 INFO [base_page.py(find_element:10)] - location('xpath', "//ul[@role='menubar']//*[text()='内容管理']")
+2019-11-12 16:31:02,278 INFO [base_page.py(find_element:10)] - location('xpath', "//ul[@role='menubar']//*[contains(text(), '发布文章')]")
+2019-11-12 16:31:08,452 INFO [base_page.py(find_element:10)] - location('css selector', "[placeholder='文章名称']")
+2019-11-12 16:31:11,868 INFO [base_page.py(find_element:10)] - location('id', 'publishTinymce_ifr')
+2019-11-12 16:31:11,958 INFO [base_page.py(find_element:10)] - location('tag name', 'body')
+2019-11-12 16:31:12,358 INFO [base_page.py(find_element:10)] - location('xpath', "//input[@value='auto']/..")
+2019-11-12 16:31:12,453 INFO [base_page.py(find_element:10)] - location('css selector', "[placeholder='请选择']")
+2019-11-12 16:31:18,740 INFO [base_page.py(find_element:10)] - location('class name', 'el-button--primary')
+2019-11-12 16:31:18,895 INFO [test_publish.py(test_click_to_home_list:37)] - title=zbcceshi001, content=吴迪阿三接电话, channel=数据库

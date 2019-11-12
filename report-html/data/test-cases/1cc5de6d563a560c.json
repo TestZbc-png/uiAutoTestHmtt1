@@ -1,0 +1,122 @@
+{
+  "uid" : "1cc5de6d563a560c",
+  "name" : "test_login[13012345678-246810-test123]",
+  "fullName" : "scripts.mp.test_login.TestLogin#test_login[13012345678-246810-test123]",
+  "historyId" : "117c4d37ef365b74facaacb3304152ed",
+  "time" : {
+    "start" : 1573547457633,
+    "stop" : 1573547459100,
+    "duration" : 1467
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1573547449570,
+      "stop" : 1573547454629,
+      "duration" : 5059
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b1acdea23aa6abd5",
+      "name" : "log",
+      "source" : "b1acdea23aa6abd5.txt",
+      "type" : "text/plain",
+      "size" : 375
+    }, {
+      "uid" : "9a7a9eaad7d7749d",
+      "name" : "stdout",
+      "source" : "9a7a9eaad7d7749d.txt",
+      "type" : "text/plain",
+      "size" : 0
+    }, {
+      "uid" : "df7f7e81c352851e",
+      "name" : "stderr",
+      "source" : "df7f7e81c352851e.txt",
+      "type" : "text/plain",
+      "size" : 0
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1573547459108,
+      "stop" : 1573547459110,
+      "duration" : 2
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "scripts.mp"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLogin"
+  }, {
+    "name" : "host",
+    "value" : "PC201908031058"
+  }, {
+    "name" : "thread",
+    "value" : "21432-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "scripts.mp.test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "code",
+    "value" : "'246810'"
+  }, {
+    "name" : "mobile",
+    "value" : "'13012345678'"
+  }, {
+    "name" : "username",
+    "value" : "'test123'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1cc5de6d563a560c.json",
+  "parameterValues" : [ "'246810'", "'13012345678'", "'test123'" ]
+}

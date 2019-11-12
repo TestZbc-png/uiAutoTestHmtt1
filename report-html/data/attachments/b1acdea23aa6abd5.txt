@@ -1,0 +1,4 @@
+[32mINFO    [0m root:test_login.py:47 mobile, code, username13012345678246810test123
+[32mINFO    [0m root:base_page.py:10 location('css selector', "input[placeholder='请输入手机号']")
+[32mINFO    [0m root:base_page.py:10 location('css selector', "input[placeholder='验证码']")
+[32mINFO    [0m root:base_page.py:10 location('class name', 'el-button--primary')

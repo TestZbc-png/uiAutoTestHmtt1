@@ -1,0 +1,5 @@
+"Status","Name","Duration in ms","Description"
+"passed","scripts.mp.test_publish.TestPublish#test_click_to_home_list","17058",""
+"passed","scripts.mp.test_end.TestEnd#test_end","4155",""
+"passed","scripts.mp.test_begin.TestBegin#test_begin","0",""
+"passed","scripts.mp.test_login.TestLogin#test_login[13012345678-246810-test123]","1467",""
